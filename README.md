@@ -14,7 +14,7 @@ Source wolfram code for the paper "Modelling of compressor station operation to 
 
 5. ---> run code in the file _totalHoursComputations.nb_
 
-6. ---> open file _data/dataset.xlsx_
+6. ---> open file _data/output/dataset.xlsx_
 
 The calculation results will be shown as plots in the file _totalHoursComputations.nb_, and the calculation results will be written to _data/dataset.xlsx_.
 
