@@ -16,7 +16,7 @@ To run calculations follow the instructions below:
 
 6. ---> open file data/dataset.xlsx
 
-Computation results will be shown in the file data/dataset.xlsx.
+The calculation results will be shown as plots in the file totalHoursComputations.nb, and the calculation results will be written to data/dataset.xlsx.
 
 _Example output plots:_
 
