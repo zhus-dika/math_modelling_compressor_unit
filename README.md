@@ -25,3 +25,5 @@ _Example output plots:_
 and
 
 ![plot](https://github.com/zhus-dika/math_modelling_compressor_unit/blob/main/data/output/example_figs/01.02_02_rec.png)
+
+A description of all computational procedures is presented in the file description.nb.
