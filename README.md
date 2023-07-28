@@ -17,7 +17,9 @@ To run calculations follow the instructions below:
 6. ---> open file data/dataset.xlsx
 
 Computation results will be shown in the file data/dataset.xlsx.
-Example output plots
+
+_Example output plots:_
+
 ![plot](https://github.com/zhus-dika/math_modelling_compressor_unit/blob/main/data/output/example_figs/01.02_02.png)
 
 and
