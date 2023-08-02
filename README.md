@@ -22,9 +22,26 @@ The calculation results will be shown as plots in the file _totalHoursComputatio
 
 ![plot](https://github.com/zhus-dika/math_modelling_compressor_unit/blob/main/data/output/example_figs/01.02_02.png)
 
-and
+and corresponding output parameters:
 
-![plot](https://github.com/zhus-dika/math_modelling_compressor_unit/blob/main/data/output/example_figs/01.02_02_rec.png)
+
+| Name                    |      Value      |  Unit    |
+|----------               |:-------------:  |------:   |
+|calculated rotations     | $5035$          |$rot/min$ |
+| real rotations          | $5000$          |$rot/min$ |
+| $\tilde{n}_{red}$       | $0.9401$        |    -     |
+| $\eta_{pol}$            | $0.6676$        |    -     |
+| $T^{out}$ calculated    | $13.3783$       |$C^\circ$ |
+| $T^{out}$ real          | $15$            |$C^\circ$ |
+| $N_{red}$               | $124.671$       |    -     |
+| $N_{available}$         | $4887.5$        |  $kW$    |
+| $N_{inner}$             | $2495.96$       |  $kW$    |
+| $K_{charge}$            | $0.5629$        |    -     |
+| $K_{dist}$              | $1.8642$        |    -     |
+| $N$                     | $2751.13$       |   $kW$   |
+| $Q_{fuel-gas}$          | $1557.31$       |$m^3/hour$|
+|compressor work point $X$| $249.677$       |    -     |
+|compressor work point $Y$| $1.1265$        |    -     |
 
 A description of all computational procedures is presented in the file _description.nb_.
 
