@@ -1,4 +1,4 @@
-# Mathematical modelling compressor unit
+# Modelling of the operation of a gas compressor station
 
 Source wolfram code for the paper "Modelling of compressor station operation to minimize fuel gas costs" 
 
@@ -31,8 +31,8 @@ and corresponding output parameters:
 | real rotations          | $5000$          |$rot/min$ |
 | $\tilde{n}_{red}$       | $0.9401$        |    -     |
 | $\eta_{pol}$            | $0.6676$        |    -     |
-| $T^{out}$ calculated    | $13.3783$       |$C^\circ$ |
-| $T^{out}$ real          | $15$            |$C^\circ$ |
+| $T_{out}$ calculated    | $13.3783$       |$C^\circ$ |
+| $T_{out}$ real          | $15$            |$C^\circ$ |
 | $N_{red}$               | $124.671$       |    -     |
 | $N_{available}$         | $4887.5$        |  $kW$    |
 | $N_{inner}$             | $2495.96$       |  $kW$    |
