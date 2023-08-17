@@ -1,6 +1,6 @@
 # Modelling of the operation of a gas compressor station
 
-Source wolfram code for the paper "Modelling of compressor station operation to minimize fuel gas costs" 
+Source wolfram code for the paper *"Modeling gas compressor station operation to minimize fuel costs for surge zone protection"*
 
 ### To run calculations follow the instructions below:
 
