@@ -45,4 +45,4 @@ and corresponding output parameters:
 
 A description of all computational procedures is presented in the file _description.nb_.
 
-NOTE: The input data for the calculations were not included in this repository due to privacy policy, but examples of filling in the data are in the _data_ folder.
+NOTE. The input data for the calculations was not included in this repository due to the privacy policy, but examples of filling out the data are in the _data_ folder.
