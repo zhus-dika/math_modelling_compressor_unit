@@ -18,7 +18,7 @@ Source wolfram code for the paper *"Modeling gas compressor station operation to
 
 The calculation results will be shown as plots in the file _totalHoursComputations.nb_, and the calculation results will be written to _data/output/dataset.xlsx_.
 
-### Example output plots:
+### Example output plot:
 
 ![plot](https://github.com/zhus-dika/math_modelling_compressor_unit/blob/main/data/output/example_figs/01.02_02.png)
 
