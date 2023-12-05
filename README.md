@@ -45,4 +45,13 @@ and corresponding output parameters:
 
 A description of all computational procedures is presented in the file _description.nb_.
 
+### Example output graphs of the optimal algorithm for anti-surge protection:
+
+*Case1.* Load the unit with recirculation valve
+
+![plot](https://github.com/zhus-dika/math_modelling_compressor_unit/blob/main/data/output/example_figs/case1.png)
+
+*Case2.* The case when the opening of valve #R is not sufficiently.
+![plot](https://github.com/zhus-dika/math_modelling_compressor_unit/blob/main/data/output/example_figs/case2.png)
+
 NOTE. The input data for the calculations was not included in this repository due to the privacy policy, but examples of filling out the data are in the _data_ folder.
